@@ -1,50 +1,61 @@
-## Your Name
+## Mindugas Sarskus
+<br>**Home addres:** 27 Cois Chlair, Claregalway, co. Galway
+<br>**Email:** minde.pinde@gmail.com
+<br>**Mobile:** 0872 6996 52
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[comment]: # (Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.)
+
+I'm 3rd year Software Development student with a keen interest in math, programming, and problem solving in general.
+
+## Education
+Bachelor of Science (Honours) in Computing in Software Development, at Galway-Mayo Institute of Technology (GMIT), graduating in 2020.
+
+**Grades:** add my grades here.
 
 ## Skills
 
-#### This Skill
+#### Coding
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+ - **Java:**
+     - Currently Java is my language of choise. Learned on my own before collage.
+     - I have good understanding of Java Colletions API. I can use Streams and Lambdas for most of my coding work. Heve no issue to use Java features never used before just by reading documentation. Obviosly OOP is not an issue.
+     - My 2nd year java project, receant solved ProjectEuler.net problem 98, some CodeWars problems, TicToc.
 
-- Experience
-- Achievements
-- Evidence
+[commet]: # (- Experience, - Achievements,- Evidence)
 
-#### Another Skill
+- **JavaScript:**
+    - Is second language of choise. Lerned during '17 summer time.
+    - Solved most of CodeWars.com problems using it.
+    - CodeWars, boucing balls.
+- **C:**
+    - Is a third language of choise. Have good undestanding of it.
+    - Did many Arduino little projects. Acheived 86% grade on C lang module.
+    - 2nd year project, Created small testing library to help with 2nd year project. Sadly Arduino projects was done before collage and none of them survived up to date.
+- Other: Python, TypeScript, C#;
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Another Skills
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- **Git**
+    - I have good understaning of main git commands.
+    - I using it for most of my coding.
+    - My git page
 
-## Education
+- **JUnit5**
+    - I can write test cases to cover most of my code.
+    - I do write test cases for any complicated Java code.
+    - Please check thouse projects: p1, p2, p3
 
-#### Makers Academy (start_date to end_date)
+- **Linux**
+    - I am using Linux as my main mashine for an over year now.
+    - Using Linux Mint. Can do most of my needs in terminal with a little help of Google.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- **Docker**
+    - I have basic understanding docker.
+    - had time play with it for couple days.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+[comment]: # (Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.)
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Other
+- Crpenter/Joiner (pre college/summer work).
+- Main Host of GMIT Computing Sociaty.
+- Father of the little princess.
